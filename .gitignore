@@ -1,0 +1,13 @@
+node_modules/
+public/images/
+public/files/
+public/uploads/
+config/config.json
+dist/
+
+.idea/
+.vscode/
+.env
+package-lock.json
+
+127.0.0.1
